@@ -2,7 +2,7 @@
 
 I'm an Information Systems Professional that can wear many hats. I am interested in identifying valuable opportunities by thinking about economic value (i.e, thinking like an economist), designing great solutions by thinking like a product/marketing specialist and understanding the end customer, delivering high-quality by thinking like both a software engineer and a business process engineer, ensuring profitability by thinking like an accountant, and being aware of and accounting for future growth, risks, and pivots by thinking like a strategic manager.  
 
-- ⚙️ Big picture Enterprise Architecture
+- Big picture Enterprise Architecture
 - Agile, DevSecOps, CI/CD
 - Backend development
 - APIs
